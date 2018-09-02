@@ -1,0 +1,22 @@
+*{
+	padding-right: 4%;
+} 
+
+body{
+	text-align: right;
+
+}
+
+#h22{
+		background-color:aliceblue;
+	color: dimgrey;
+
+}
+
+.container{
+		width: 50%;
+}
+
+h4{
+	display: inline-block;
+}
