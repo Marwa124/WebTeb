@@ -1,3 +1,0 @@
-[0810/030330.988:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: Insufficient system resources exist to complete the API. (0xc000009a)
-[0810/030333.499:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\mnlnh\AppData\Local\Google\Chrome\User Data\Crashpad\reports\a02fcca0-083e-4879-a4c1-22d939f8084c.dmp: The process cannot access the file because it is being used by another process. (0x20)
-[0810/130921.030:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: Insufficient system resources exist to complete the API. (0xc000009a)

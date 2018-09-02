@@ -1,0 +1,61 @@
+
+body
+{
+	background-color:  rgb(227, 236, 240) !important;
+	font-family: 'Roboto', sans-serif !important;
+	font-family: 'Open Sans', sans-serif !important;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+
+
+
+}
+
+.b-border
+{
+	font-size: 27px;
+	color:rgb(43, 84, 100);
+	font-weight:400;
+
+}
+.main-content
+{
+	padding-left: 90px;
+	border-bottom: 3px solid #16c1f5;
+}
+
+.bold
+{
+	font-size: 25px;
+}
+.bold-fb
+{
+	font-weight: 500;
+	color: rgb(57, 96, 152);
+	font-size: 20px;
+
+}
+.bold-tw
+{
+	font-weight: 500;
+	color:rgb(75, 196, 241);
+	font-size: 20px;
+}
+
+.symptom-note
+{
+	background-color: white;
+}
+.step-2
+{
+	border-right: .5px solid rgb(228, 227, 232);
+	border-left: .5px solid rgb(228, 227, 232);
+	
+	
+}
+.step
+{
+	text-align: center;
+	color: rgba(41, 51, 63,.6);
+
+
+}
