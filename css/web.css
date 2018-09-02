@@ -1,0 +1,161 @@
+
+#body{
+    font-family: 'Cairo', sans-serif;
+
+}
+#head1{
+    width: 100%;
+    background: #fff;
+    height: 60px;
+    border-bottom: 3px solid #16c1f5;
+}
+#head1 nav{
+    margin: auto;
+    width: 1060px;
+}
+#head1 nav img ,#head2 nav img{
+    width: 151px;height: 44.33px;
+}
+
+#head1 .navbar-brand ,#head2 .navbar-brand{
+    position: absolute;
+    right: 10px;
+    margin-right: auto;
+}
+#head1 nav .comment{
+    font-size: 16px;
+    margin-right: 14px;
+    color: #2b5464;
+    right: 15%;
+    position: absolute;
+}
+#head2 nav .comment{
+    font-size: 16px;
+    color: #2b5464;
+    right: 13%;
+    top: 13px;
+    position: absolute;
+}
+#head2 .navbar-brand{
+    position: absolute;
+    top:-2px;
+}
+#head1 .search ,#head2 .search{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 55px;
+    height: 44px;
+    background: #00aff0;
+    color: #fff;
+    border-radius: 22px 0 0 22px;
+    border-style: none;
+}
+#head1 .search:hover ,#head2 .search:hover {
+    background: #03aadd;
+}
+#head1 input ,#head2 input{
+    
+    height: 44px;
+    top: 0px;
+    position: absolute;
+    border: 1px solid #e4eef2;
+    background: #f7fafb;
+    border-bottom-right-radius: 16px;
+    font-size: 23px;
+    padding-right: 15px;
+    left: 55px;
+}
+#head1 input:focus ,#head2 input:focus { 
+    outline: none !important;
+    border-color: #719ECE;
+    box-shadow: 0 0 5px #719ECE;
+
+}
+#head2 nav .comment:before{
+    content: " ";
+    top: 6px;
+    right: 60px;
+    width: 1px;
+    height: 17px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: rgba(0,0,0,0.2);
+    
+}
+::placeholder {
+    color: #96a6aa;
+    font-size: 19px;
+}
+#head1 .login a {
+    line-height: 1.6rem;
+    border-radius: 5px;
+    float: right;
+    text-align: center;
+    font-size: 14px;
+    color: #16c1f5;
+    text-decoration: none;
+    outline: none;
+    text-align: center;
+    font-size: 14px;  
+    border: 1px solid #00aff0;
+    width: 82px;
+    height: 32.5px;
+    margin: 0 4px;
+    padding: 2px;
+}
+#head2 .login{
+    position: absolute;
+    left: 290px;
+    top: 10px;
+}
+#head2 .login .icon{
+    float: right;
+    margin: 0 4px;
+    text-decoration: none;
+    outline: none;
+}
+#head1 .login .newspaper {
+    background-color: rgb(0, 175, 240);
+    color: #fff;
+    font-size: 12px;
+    padding: 4px;
+    text-align: center;
+    margin-right: 15px;
+    margin-left: 35px;
+    width: 115px;
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+#head2 .login .newspaper{
+    background-color: rgb(0, 175, 240);
+    color: #fff;
+    font-size: 12px;
+    padding: 6px 8px;
+    text-align: center;
+    margin-right: 15px;
+    margin-left: 35px;
+    width: 115px;
+    border-radius: 5px;
+    text-decoration: none;
+    top: 6px;
+    position: relative;
+    
+}
+#head2 nav{
+   opacity: 1;
+    
+}
+
+#head2 {
+    top: 0px;
+    width: 100%;
+    background-color: #fff;
+    height: 77px;
+    position: fixed;    
+     
+}
+
+
+
