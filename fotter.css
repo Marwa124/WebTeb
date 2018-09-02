@@ -1,0 +1,41 @@
+
+
+
+.footer{
+    
+    background-color: #ffffff;
+    height: 250px;
+    width: 100%;
+}
+.footer-link ul li  {
+    text-decoration:none;
+   list-style-type: none;
+    float :right;
+    padding: 20px;
+    border-right-width: 2px;
+    border-color: grey;
+    border-right-style: solid;
+    margin-bottom: 10px;
+}
+.clr{
+    clear:both;
+}
+.test{
+    float:left;
+}
+.test img{
+    width: 80%;
+}
+p{
+    color: gray;
+}
+.fot{
+    height: 100px;
+    background-color: #dddddd;
+}
+.fot .fot1 p{
+    float:right;
+}
+.fot2{
+    float: left;
+}
